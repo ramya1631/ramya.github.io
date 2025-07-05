@@ -1,13 +1,15 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Ramya
+permalink: /
 ---
 
 # Ramya Rao Koluguri, Full Stack Developer
 
-![My Photo](images/img_1.png)
 
-## About Me 
+  <img src="/images/img_1.png" alt="img_1.png" width="400" />
+
+##  About Me
 
 I’m a detail-oriented and motivated learner with a strong foundation in front-end development, problem-solving, and collaboration—gained through real-world, team-based projects. I’m proficient in JavaScript, React, HTML, CSS, and Jest, with growing experience in Java and backend technologies.
 
@@ -21,19 +23,23 @@ During the program, I sharpened my skills in:
 - Spring Boot
 - MySQL
 
-  I’m now actively seeking a software development role where I can apply my full-stack skills to build responsive, user-focused applications in a collaborative environment.
+I’m now actively seeking a software development role where I can apply my full-stack skills to build responsive, user-focused applications in a collaborative environment.
 
 
 
-[Download Resume (PDF)](/assets/files/Ramya_ResumeLC.pdf)
+##  Resume
+
+[Download My Resume ](/assets/files/Ramya_ResumeLC.pdf)
 
 
+##  My Projects
 
-  [MY projects](projects/project.png)
+
+-   [MY projects](projects/project.png)
 
 
-## Contact Me
+##  Contact Me
 
-- LinkedIn: [linkedin.com/in/ramya-rao-koluguri-15386736b](https://linkedin.com/in/ramya-rao-koluguri-15386736b)
-- Email: [koluguriramya95@gmail.com](mailto:koluguriramya95@gmail.com)
+-  LinkedIn: [linkedin.com/in/ramya-rao-koluguri-15386736b](https://linkedin.com/in/ramya-rao-koluguri-15386736b)
+-  Email: [koluguriramya95@gmail.com](mailto:koluguriramya95@gmail.com)
 - GitHub: [github.com/ramya1631](https://github.com/ramya1631)
