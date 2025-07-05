@@ -1,10 +1,4 @@
 
-title: Ramya's Portfolio
-description: My personal Projects and Resume
-
-header_pages:
-  - index.md
-  - resume.md
-  - projects.md
-
-  - theme: minima
+title: Ramya Rao Koluguri's Portfolio
+description: Full Stack Developer Portfolio
+theme: minima
