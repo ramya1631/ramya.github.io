@@ -28,9 +28,8 @@ During the program, I sharpened my skills in:
 [Download Resume (PDF)](/assets/files/Ramya_ResumeLC.pdf)
 
 
-## My Projects
 
-  [Live Demo](https://university-data-with-chatbot.netlify.app/)
+  [MY projects](projects/project.png)
 
 
 ## Contact Me
